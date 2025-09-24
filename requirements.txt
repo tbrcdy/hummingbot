@@ -1,0 +1,9 @@
+# Basic Python requirements for Hummingbot skeleton
+# Add specific trading libraries as needed
+
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Development dependencies
+pytest>=7.4.0
